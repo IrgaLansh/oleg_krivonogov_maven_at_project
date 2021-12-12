@@ -1,0 +1,1 @@
+# oleg_krivonogov_maven_at_project
